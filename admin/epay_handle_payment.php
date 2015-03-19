@@ -1,5 +1,6 @@
 <?php
 /*
+/Very good Thank you
   Copyright (c) 2012. All rights reserved ePay - www.epay.dk.
 
   This program is free software. You are allowed to use the software but NOT allowed to modify the software. 
